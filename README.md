@@ -1,5 +1,11 @@
 **Now Playing** on Spotify
 
-<a href="https://nowplaying.lxemily.com/now-playing?open">
-    <img src="https://nowplaying.lxemily.com/now-playing" width="256" height="64" alt="Now Playing">
+Hosted on Netlify
+<a href="https://now-playing-lxemily.netlify.app/now-playing?open">
+    <img src="https://now-playing-lxemily.netlify.app/now-playing" width="300" height="64" alt="Now Playing">
+</a>
+
+Hosted on Vercel
+<a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-lxemily.vercel.app" width="300" height="64" alt="Now Playing">
 </a>
