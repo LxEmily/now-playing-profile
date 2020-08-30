@@ -7,5 +7,5 @@ Hosted on Netlify
 
 Hosted on Vercel
 <a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-lxemily.vercel.app" width="300" height="64" alt="Now Playing">
+    <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="300" height="64" alt="Now Playing">
 </a>
